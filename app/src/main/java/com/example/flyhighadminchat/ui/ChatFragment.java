@@ -138,6 +138,8 @@ public class ChatFragment extends Fragment implements FlyHighActivity.ListWatche
 
     }
 
+    /*TODO: HI*/
+
 //    private Object timeStampCreated() {
 //        HashMap<String, Object> timestampCreated;
 //        timestampCreated = new HashMap<>();
